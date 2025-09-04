@@ -21,7 +21,18 @@ This repository contains my completed tasks from the **Elevvo Pathways learning 
 ---
 
 ## 🚀 How to Run the Projects
+1: Install Dependencies
 
+Each task is inside its own folder. Navigate to the task you want to run and install dependencies:
+
+cd task-name
+npm install
+
+2. Run the Project
+
+Start the development server:
+
+npm start
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/Elevvo-Pathways-Tasks.git
